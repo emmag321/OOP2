@@ -15,10 +15,10 @@ public class Question5 {
         choiceAsString = JOptionPane.showInputDialog(null,"Please enter your choice");
         choice = choiceAsString.charAt(0);
 
-        firstNumAsString = JOptionPane.showInputDialog(null,"Please enter a number");
+        firstNumAsString = JOptionPane.showInputDialog(null,"Please enter the firsr number");
         firstNum = Float.parseFloat(firstNumAsString);
 
-        secondNumAsString = JOptionPane.showInputDialog(null,"Please enter a number");
+        secondNumAsString = JOptionPane.showInputDialog(null,"Please enter the second number");
         secondNum = Float.parseFloat(secondNumAsString);
 
         switch(choice)
@@ -51,7 +51,7 @@ public class Question5 {
             default:
                         JOptionPane.showMessageDialog(null,"You did not enter a correct choice","Result",
                         JOptionPane.INFORMATION_MESSAGE);
-        
+
 
 
 

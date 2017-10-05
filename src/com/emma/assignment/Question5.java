@@ -25,15 +25,34 @@ public class Question5 {
         {
             case 'A'://addition
                         answer = firstNum + secondNum;
-                        JOptionPane.showMessageDialog(null,"The answer is" + String.format("%.2f",answer));
+                        JOptionPane.showMessageDialog(null,"The answer is" + String.format("%.2f",answer)
+                                ,"Result",JOptionPane.INFORMATION_MESSAGE);
+                        break;
 
             case 'S'://subtraction
+                        answer = firstNum - secondNum;
+                        JOptionPane.showMessageDialog(null,"The answer is" + String.format("%.2f",answer)
+                        ,"Result",JOptionPane.INFORMATION_MESSAGE);
+                         break;
 
 
             case 'M'://multiplication
-
+                        answer = firstNum*secondNum;
+                        JOptionPane.showMessageDialog(null,"The answer is" + String.format("%.2f",answer)
+                        ,"Result",JOptionPane.INFORMATION_MESSAGE);
+                         break;
 
             case 'D'://divide
+                        answer = firstNum/secondNum;
+                        JOptionPane.showMessageDialog(null,"The answer is" + String.format("%.2f",answer)
+                        ,"Result",JOptionPane.INFORMATION_MESSAGE);
+                        break;
+
+            default:
+                        JOptionPane.showMessageDialog(null,"You did not enter a correct choice","Result",
+                        JOptionPane.INFORMATION_MESSAGE);
+        
+
 
 
         }

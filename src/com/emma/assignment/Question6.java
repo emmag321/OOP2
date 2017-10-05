@@ -1,4 +1,4 @@
-//Q6 not complete
+//Q6 not complete yet
 package com.emma.assignment;
 
 import javax.swing.*;

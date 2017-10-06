@@ -1,6 +1,5 @@
-//Q6 not complete yet
+//Q6 complete
 package com.emma.assignment;
-
 import javax.swing.*;
 
 public class Question6 {

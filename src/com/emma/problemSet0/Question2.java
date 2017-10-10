@@ -1,5 +1,5 @@
 //Q2 complete
-package com.emma.assignment;
+package com.emma.problemSet0;
 
 import javax.swing.*;
 

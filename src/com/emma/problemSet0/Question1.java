@@ -1,8 +1,8 @@
 //Complete 26/09/2017
-package com.emma.assignment;
+package com.emma.problemSet0;
 
 import javax.swing.*; //import statement
-import javax.swing.JTextArea; //import statement
+
 
 public class Question1 {
 

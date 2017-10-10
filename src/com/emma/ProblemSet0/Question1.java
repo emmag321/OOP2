@@ -1,5 +1,5 @@
-//Complete 26/09/2017
-package com.emma.problemSet0;
+//Complete 26/09/2017 ProblemSet0
+package com.emma.ProblemSet0;
 
 import javax.swing.*; //import statement
 

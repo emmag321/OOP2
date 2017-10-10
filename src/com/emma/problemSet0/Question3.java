@@ -1,5 +1,4 @@
-//Q3 complete
-package com.emma.problemSet0;
+package com.emma.ProblemSet0;
 
 import javax.swing.*;
 

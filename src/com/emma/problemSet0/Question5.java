@@ -1,11 +1,7 @@
-//Q5 complete
-package com.emma.problemSet0;
+package com.emma.ProblemSet0;
 
 import javax.swing.*;
 
-/**
- * Created by t00185959 on 05/10/2017.
- */
 public class Question5 {
     public static void main(String[] args) {
 

@@ -1,5 +1,6 @@
-//Q6 complete
-package com.emma.problemSet0;
+//Q6 complete ProblemSet0
+package com.emma.ProblemSet0;
+
 import javax.swing.*;
 
 public class Question6 {

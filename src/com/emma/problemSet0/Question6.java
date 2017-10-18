@@ -1,4 +1,4 @@
-//Q6 complete problemSet0
+//Q6 done problemSet0
 package com.emma.ProblemSet0;
 
 import javax.swing.*;

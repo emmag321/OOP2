@@ -1,4 +1,4 @@
-package com.emma.assigns;
+package com.emma.ProblemSet0;
 
         import javax.swing.*; //import statement
         import javax.swing.JTextArea; //import statement

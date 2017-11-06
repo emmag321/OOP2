@@ -12,7 +12,7 @@ public class Question6 {
 
         textArea.setText("Number\t\tCube\n----------\t\t----------");
 
-        for(int i=1 ; i<=15; i++)
+        for(int i=1; i<=15; i++)
         {
             num++;
             textArea.append("\n" + num + "\t\t" + cube(num,cubeNum) + "\n");

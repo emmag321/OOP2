@@ -1,5 +1,7 @@
 package com.emma.problemSet1;
 
+import jdk.nashorn.internal.scripts.JO;
+
 import javax.swing.*;
 
 public class Question7 {
@@ -10,7 +12,7 @@ public class Question7 {
 
         do
         {
-            numAsString = JOptionPane.showInputDialog(null,"Please enter a number: ");
+            numAsString = JOptionPane.showMessageDialog(null,"Please enter a number: ");
             num = Integer.parseInt(numAsString);
 
             if(isEven(num)== true)

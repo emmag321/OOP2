@@ -1,9 +1,6 @@
 package com.emma.ProblemSet3;
 
-//House.java
-/**/
-
-public class Question1{
+public class House {
 
     //attributes
     private String address;
@@ -12,13 +9,13 @@ public class Question1{
     private Person owner;
 
     //constructors
-    public Question1(){
+    public House(){
 
         this("No Address Specified", "No Type Specified", 0.0, "No Owner Specified");
 
     }
 
-    public Question1(String address, String type, double price, String name){
+    public House(String address, String type, double price, String name){
                  //int age, char gender){
 
         this.address = address;

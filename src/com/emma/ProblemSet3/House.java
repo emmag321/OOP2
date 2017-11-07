@@ -64,6 +64,9 @@ public class House {
 
     public String toString(){
 
-        return "Address: " + address + "\nType: " + type + "\nPrice: " + price;
+        return "Address: " + address + "\nType: " + type + "\nPrice: " + price + "\nOwner" + owner ;
+    }
+
+    public void setOwner(String marilyn_monroe, int i, char f) {
     }
 }
